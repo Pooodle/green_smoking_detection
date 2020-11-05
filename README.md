@@ -1,4 +1,4 @@
-# green-smoking_detection
+# green_smoking_detection
  공모전 수상
  
  > ## 기획 PT
