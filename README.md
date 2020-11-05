@@ -1,4 +1,4 @@
-# iot_smoking_detection
+# green-smoking_detection
  공모전 수상
  
  > ## 기획 PT
